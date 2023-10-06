@@ -2,9 +2,9 @@
  A full Stack MERN Project
 
 # StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
-
- ![Main Page](images/Mainpage.png)
-
+<!--
+![Main Page](/images/Mainpage.png)
+-->
 ## Project Description
 
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
@@ -71,9 +71,9 @@ relevant information related to the platform.
 
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
-
+<!--
 ![Architecture](images/architecture.png)
-
+-->
 ## Front End
 
 The front end of StudyNotion has all the necessary pages that an ed-tech platform should
@@ -170,9 +170,9 @@ Overall, the back-end of StudyNotion is designed to provide a robust and scalabl
 for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
-
+<!--
 ![Database Schema](images/schema.png)
-
+-->
 ## API Design
 
 The StudyNotion platform's API is designed following the REST architectural style. The
