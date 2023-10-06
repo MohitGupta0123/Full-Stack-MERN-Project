@@ -1,7 +1,7 @@
 # About
  A full Stack MERN Project
 
-# StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
+# StudyNotion Online Education Platform (MERN App) [Website Link](https://full-stack-mern-project.vercel.app/)
 <!--
 ![Main Page](/images/Mainpage.png)
 -->
